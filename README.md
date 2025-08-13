@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Git & GitHub - The Ultimate Guide 🎯</h1>
+<h1 align="center">🚀 Machine Learning Internship Tasks 🎯</h1>
 
 <p align="center">
   <img src="source/logo.jpg" width="600px"/>
